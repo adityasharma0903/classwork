@@ -1,2 +1,2 @@
 hii everyone
-members = Abhishek ,vaibhav , aditya 
+members = Abhishek ,vaibhav , hutiya aditya 
